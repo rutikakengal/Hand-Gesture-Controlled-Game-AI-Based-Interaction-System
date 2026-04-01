@@ -84,56 +84,42 @@ Webcam → Hand Detection → Finger Recognition → Gesture Mapping → Keyboar
 
 ---
 
-## 🤝 Contribute & Elevate
+## ---
 
-<p align="center">
-  <b>Build. Improve. Innovate.</b><br><br>
-  This project is open for ideas, improvements, and creativity.<br>
-  If something excites you, fork it 🍴 and take it further 🚀
-</p>
+## 🤝 Contribute
+
+If you see a way to improve this project — performance, accuracy, or usability — feel free to fork and build on it.
+
+Clean ideas > unnecessary features.
 
 ---
 
 ## ⭐ Support
 
-<p align="center">
-  If this project inspired you or helped you in any way,<br>
-  consider dropping a ⭐ — it truly means a lot 💙
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/your-username/your-repo?style=social" />
-</p>
+If this project was useful or interesting, you can leave a star.  
+That’s more than enough.
 
 ---
 
-## 👨‍💻 Developer
+## 👨‍💻 Author
 
-<p align="center">
-  <b style="font-size:20px;">Rutika Kengal</b><br>
-  🎓 Computer Science Student <br>
-  💡 AI • Computer Vision • Web Development <br>
-  🚀 Building innovative and interactive tech projects
-</p>
+**Rutika Kengal**  
+Computer Science Student  
+
+Working on real-time systems across computer vision and web applications.  
+Interested in building practical, interaction-driven products.
 
 ---
 
-## 💬 Connect With Me  
+## 🌐 Contact
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="YOUR_GITHUB_LINK">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-  </a>
-</p>
+- LinkedIn — [(https://www.linkedin.com/in/rutika-kengal-b3b0a22b7/)]  
+- GitHub — [(https://github.com/rutikakengal)]  
 
 ---
 
 <p align="center">
-  <sub>✨ Designed with passion, built with code</sub>
+  <sub>Built with focus on simplicity, performance, and real interaction.</sub>
 </p>
 
 ---
-
