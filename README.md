@@ -111,10 +111,17 @@ Interested in building practical, interaction-driven products.
 
 ---
 
-## 🌐 Contact
+## 🌐 Connect
 
-- LinkedIn — [(https://www.linkedin.com/in/rutika-kengal-b3b0a22b7/)]  
-- GitHub — [(https://github.com/rutikakengal)]  
+<p align="left">
+  <a href="https://www.linkedin.com/in/rutika-kengal-b3b0a22b7/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/rutikakengal" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="30" />
+  </a>
+</p>  
 
 ---
 
