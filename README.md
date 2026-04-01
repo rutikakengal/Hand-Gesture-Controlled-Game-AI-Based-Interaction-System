@@ -84,8 +84,6 @@ Webcam → Hand Detection → Finger Recognition → Gesture Mapping → Keyboar
 
 ---
 
-## ---
-
 ## 🤝 Contribute
 
 If you see a way to improve this project — performance, accuracy, or usability — feel free to fork and build on it.
