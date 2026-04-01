@@ -82,47 +82,58 @@ Webcam → Hand Detection → Finger Recognition → Gesture Mapping → Keyboar
 - Good lighting conditions
 - Active game window
 
-## ---
+---
 
-## ---
+## 🤝 Contribute & Elevate
 
-## 🤝 Contribute & Collaborate
-
-> Ideas. Improvements. Creativity.
-
-If something sparks your interest, feel free to fork the project and build on top of it.  
-Every contribution — big or small — makes this project better 🚀  
+<p align="center">
+  <b>Build. Improve. Innovate.</b><br><br>
+  This project is open for ideas, improvements, and creativity.<br>
+  If something excites you, fork it 🍴 and take it further 🚀
+</p>
 
 ---
 
-## ⭐ Support the Project
+## ⭐ Support
 
-If this project helped you or inspired you, drop a ⭐  
-It genuinely means a lot and keeps me building more cool stuff 💙  
+<p align="center">
+  If this project inspired you or helped you in any way,<br>
+  consider dropping a ⭐ — it truly means a lot 💙
+</p>
 
----
-
-## 👨‍💻 About the Developer
-
-**Rutika Kengal**  
-Computer Science Student  
-
-Exploring the intersection of **AI, Computer Vision, and Web Development**  
-Focused on building interactive, real-world tech experiences  
+<p align="center">
+  <img src="https://img.shields.io/github/stars/your-username/your-repo?style=social" />
+</p>
 
 ---
 
-## 🌐 Let's Connect
+## 👨‍💻 Developer
 
-If you’re into building, learning, or collaborating — let’s connect 🤝  
+<p align="center">
+  <b style="font-size:20px;">Rutika Kengal</b><br>
+  🎓 Computer Science Student <br>
+  💡 AI • Computer Vision • Web Development <br>
+  🚀 Building innovative and interactive tech projects
+</p>
 
-- 🔗 LinkedIn → [Your Link]  
-- 💻 GitHub → [Your Link]  
+---
+
+## 💬 Connect With Me  
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="YOUR_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>“Turning ideas into interactive experiences through code.”</i>
+  <sub>✨ Designed with passion, built with code</sub>
 </p>
 
 ---
+
