@@ -82,4 +82,55 @@ Webcam → Hand Detection → Finger Recognition → Gesture Mapping → Keyboar
 - Good lighting conditions
 - Active game window
 
-## 
+## ---
+
+## 🤝 Contributing  
+
+<p align="center">
+✨ Contributions are welcome! ✨ <br>
+Have ideas or improvements? Fork the repo 🍴 and make it even better 🚀
+</p>
+
+---
+
+## ⭐ Show Your Support  
+
+<p align="center">
+If you like this project, consider giving it a ⭐ <br>
+It motivates me to build more awesome projects 💙
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/your-username/your-repo?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/your-username/your-repo?style=for-the-badge">
+</p>
+
+---
+
+## 👨‍💻 Author  
+
+<p align="center">
+  <b style="font-size:20px;">Rutika Kengal</b><br>
+  🎓 Computer Science Student <br>
+  💡 AI • Computer Vision • Web Development <br>
+  🚀 Building innovative and interactive tech projects
+</p>
+
+---
+
+## 💬 Connect With Me  
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="YOUR_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+<p align="center">
+🤝 Let's collaborate and build something amazing together!
+</p>
+
+---
