@@ -84,53 +84,45 @@ Webcam → Hand Detection → Finger Recognition → Gesture Mapping → Keyboar
 
 ## ---
 
-## 🤝 Contributing  
+## ---
 
-<p align="center">
-✨ Contributions are welcome! ✨ <br>
-Have ideas or improvements? Fork the repo 🍴 and make it even better 🚀
-</p>
+## 🤝 Contribute & Collaborate
 
----
+> Ideas. Improvements. Creativity.
 
-## ⭐ Show Your Support  
-
-<p align="center">
-If you like this project, consider giving it a ⭐ <br>
-It motivates me to build more awesome projects 💙
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/your-username/your-repo?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/your-username/your-repo?style=for-the-badge">
-</p>
+If something sparks your interest, feel free to fork the project and build on top of it.  
+Every contribution — big or small — makes this project better 🚀  
 
 ---
 
-## 👨‍💻 Author  
+## ⭐ Support the Project
 
-<p align="center">
-  <b style="font-size:20px;">Rutika Kengal</b><br>
-  🎓 Computer Science Student <br>
-  💡 AI • Computer Vision • Web Development <br>
-  🚀 Building innovative and interactive tech projects
-</p>
+If this project helped you or inspired you, drop a ⭐  
+It genuinely means a lot and keeps me building more cool stuff 💙  
 
 ---
 
-## 💬 Connect With Me  
+## 👨‍💻 About the Developer
+
+**Rutika Kengal**  
+Computer Science Student  
+
+Exploring the intersection of **AI, Computer Vision, and Web Development**  
+Focused on building interactive, real-world tech experiences  
+
+---
+
+## 🌐 Let's Connect
+
+If you’re into building, learning, or collaborating — let’s connect 🤝  
+
+- 🔗 LinkedIn → [Your Link]  
+- 💻 GitHub → [Your Link]  
+
+---
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="YOUR_GITHUB_LINK">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-  </a>
-</p>
-
-<p align="center">
-🤝 Let's collaborate and build something amazing together!
+  <i>“Turning ideas into interactive experiences through code.”</i>
 </p>
 
 ---
